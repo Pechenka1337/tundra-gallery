@@ -1,83 +1,83 @@
 html, body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  font-weight: 300;
-  line-height: 1.5;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    line-height: 1.5;
 }
 
 body {
-  font-family: "Lato", sans-serif;
-  background: #000000 url("img/background.jpg") center top;
-  background-size: cover;
-  margin: 0;
+    font-family: "Lato", sans-serif;
+    background: #000000 url("img/background.jpg") center top;
+    background-size: cover;
+    margin: 0;
 }
 
 a {
-  color: #204156;
-  text-decoration: none;
+    color: #204156;
+    text-decoration: none;
 }
 
 .page-title {
-  text-align: center;
-  font-weight: 100;
+    text-align: center;
+    font-weight: 100;
 }
 
-.page-desription {
-border: 1px solid #000;
-margin: 2px;
-text-align: center;
-padding: 30px;
+.page-description {
+    border: 1px solid #000;
+    margin: 2px;
+    text-align: center;
+    padding: 30px;
 }
 
 .gallery {
-  margin-top: 20px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .gallery-item {
-  margin: 20px;
+    margin: 20px;
 }
 
 .gallery-item .thumbnail {
-  border: 5px solid #fff;
+    border: 5px solid #fff;
 }
 
 nav {
-  background-color: #fff;
+    background-color: #fff;
 }
 
 nav li {
-  display: inline;
-  margin: 0;
-  padding: 0 10px;
+    display: inline;
+    margin: 0;
+    padding: 0 10px;
 }
 
 nav ul {
-  display: inline;
+    display: inline;
 }
 
 .contact-btn {
-  float: right;
+    float: right;
 }
 
 .contact-btn a {
-  cursor: pointer;
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
-  position: relative;
+    cursor: pointer;
+    margin-right: 30px;
+    padding: 8px 18px;
+    border: 1px solid #204156;
+    position: relative;
 }
 
 .contact-btn a:active {
-  top: 2px;
+    top: 2px;
 }
 
 nav a {
-  height: 50px;
-  line-height: 50px;
-  color: #204156;
-  text-decoration: none;
+    height: 60px;
+    line-height: 60px;
+    color: #204156;
+    text-decoration: none;
 }
