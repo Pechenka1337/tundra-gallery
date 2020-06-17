@@ -8,8 +8,7 @@ html, body {
 
 body {
   font-family: "Lato", sans-serif;
-  background: #000000 url("img/background.jpg");
-  background-position: center top;
+  background: #000000 url("img/background.jpg") center top;
   background-size: cover;
   margin: 0;
 }
