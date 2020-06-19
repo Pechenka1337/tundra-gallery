@@ -45,6 +45,16 @@ a {
     border: 5px solid #fff;
 }
 
+nav.header {
+    display: flex;
+    justify-content:flex-end;
+    padding:10px;
+}
+
+nav div {
+    padding:10px;
+}
+
 nav {
     background-color: #fff;
 }
