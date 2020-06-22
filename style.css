@@ -45,7 +45,7 @@ a {
     border: 5px solid #fff;
 }
 
-div wrap {
+div.wrap {
     justify-content:space-between;
 }
 
