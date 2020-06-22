@@ -45,15 +45,15 @@ a {
     border: 5px solid #fff;
 }
 
-div.wrap {
-    justify-content:space-between;
-}
-
 nav.header {
     display: flex;
     justify-content:space-between;
     padding:10px;
-    margin: 20px;
+}
+
+.wrap {
+    display:flex;
+    align-items: center;
 }
 
 nav div {
