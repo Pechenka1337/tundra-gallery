@@ -51,6 +51,10 @@ nav.header {
     padding:10px;
 }
 
+nav a {
+    padding: 0px 10px;
+}
+
 .wrap {
     display:flex;
     align-items: center;
@@ -88,11 +92,4 @@ nav ul {
 
 .contact-btn a:active {
     top: 2px;
-}
-
-nav a {
-    height: 60px;
-    line-height: 60px;
-    color: #204156;
-    text-decoration: none;
 }
