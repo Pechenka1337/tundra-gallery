@@ -58,6 +58,7 @@ nav a {
 .wrap {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 }
 
 nav div {
